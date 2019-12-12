@@ -1,0 +1,4 @@
+j'ai crée un repository directement sur github que j'ai cloné.
+il y'avait donc automatiquement un 1er commit deja fait.
+J'ai modifié le fichier README.md pour un 2eme commit dans un premier test. sa ce passe bien.
+Voici que j'ajoute ce fichier ajout1 (1er ajout d'un fichier) que je vais inserer dans un repository avec un 3eme commis et un 2eme push.
